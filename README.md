@@ -7,7 +7,7 @@
 <p class="has-line-data" data-line-start="10" data-line-end="11">Los humedales son ecosistemas de gran valor natural y cultural, constituidos por un cuerpo de agua permanente o estacional de escasa profundidad, una franja a su alrededor que puede cubrirse por inundaciones periódicas y una franja de terreno no inundable.(Alcaldia de Bogota, 2005). Asi mismo son considerados espacios de creacion cultural, ambiental y estructural, aspectos que se desarrollan en las comunidades circundantes. Son lugares de interacion sobre la fauna y los ciclos hidricos, sin embargo, tambien son espacios de opinion ancestral y construcctores de tejido social. De esta manera nace la pregunta ¿ Que aportes en los ambitos sociales y ancestral podemos extraer de los humedales?</p>
 <h3 class="code-line" data-line-start=12 data-line-end=13><a id="Objetivos_12"></a>Objetivos</h3>
   
-  ![Santa María del Lago](https://github.com/oacastrol/prueba/blob/main/fotohumedal.jpg)
+  ![Santa María del Lago](https://raw.githubusercontent.com/oacastrol/prueba/main/fotohumedal.jpg)
 >>Humedal de Santa María del Lago
  ![Santa María del Lago](https://raw.githubusercontent.com/oacastrol/prueba/main/Humedal_3.jpg)
  >>Jaboque
