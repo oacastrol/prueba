@@ -6,7 +6,10 @@
 <h3 class="code-line" data-line-start=9 data-line-end=10><a id="Problema_de_investigacion_9"></a>Problema de investigacion:</h3>
 <p class="has-line-data" data-line-start="10" data-line-end="11">Los humedales son ecosistemas de gran valor natural y cultural, constituidos por un cuerpo de agua permanente o estacional de escasa profundidad, una franja a su alrededor que puede cubrirse por inundaciones periódicas y una franja de terreno no inundable.(Alcaldia de Bogota, 2005). Asi mismo son considerados espacios de creacion cultural, ambiental y estructural, aspectos que se desarrollan en las comunidades circundantes. Son lugares de interacion sobre la fauna y los ciclos hidricos, sin embargo, tambien son espacios de opinion ancestral y construcctores de tejido social. De esta manera nace la pregunta ¿ Que aportes en los ambitos sociales y ancestral podemos extraer de los humedales?</p>
 <h3 class="code-line" data-line-start=12 data-line-end=13><a id="Objetivos_12"></a>Objetivos</h3>
+  
+  ![Santa María del Lago](https://github.com/oacastrol/prueba/blob/main/fotohumedal.jpg)
 <ul>
+ 
 <li class="has-line-data" data-line-start="13" data-line-end="14">Analizar la importancia de los humedales entorno a sus aportes sociales y ancestrales.</li>
 <li class="has-line-data" data-line-start="14" data-line-end="15">Determinar al humedal como objeto de cosmovision ancestral.</li>
 <li class="has-line-data" data-line-start="15" data-line-end="17">Generar una propuesta didactica</li>
