@@ -1,4 +1,4 @@
-<!DOCTYPE html><html><head><meta charset="utf-8"><title>Humedales y sociedad.md</title><style></style></head><body id="preview">
+
 <h2 class="code-line" data-line-start=0 data-line-end=1><a id="Entre_el_Humedal_y_la_Sociedad_Aporte_Social_y_Ancestral_de_los_humedales_0"></a>Entre el Humedal y la Sociedad: Aporte Social y Ancestral de los humedales</h2>
 <hr>
 <h3 class="code-line" data-line-start=4 data-line-end=5><a id="Justificacin_4"></a>Justificación</h3>
