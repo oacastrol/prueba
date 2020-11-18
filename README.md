@@ -9,7 +9,8 @@
   
   ![Santa María del Lago](https://github.com/oacastrol/prueba/blob/main/fotohumedal.jpg)
 >>Humedal de Santa María del Lago
- ![Santa María del Lago](https://github.com/oacastrol/prueba/blob/main/fotohumedal.jpg)
+ ![Santa María del Lago](https://raw.githubusercontent.com/oacastrol/prueba/main/fotohumedal_2.jpgg)
+ >>Jaboque
 <ul>
 <li class="has-line-data" data-line-start="13" data-line-end="14">Analizar la importancia de los humedales entorno a sus aportes sociales y ancestrales.</li>
 <li class="has-line-data" data-line-start="14" data-line-end="15">Determinar al humedal como objeto de cosmovision ancestral.</li>
